@@ -1,0 +1,71 @@
+h1
+{
+  margin: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: #870913;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  padding: 10px;
+  
+
+}
+
+
+.topnav a {
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #581845;
+  color: white;
+}
+
+
+.topnav a.active {
+  background-color: #C70039;
+  color: white;
+}
+
+marquee
+{
+padding-top: 30px;
+ margin: 0 0 0 0;
+  overflow: hidden;
+  white-space: nowrap;
+animation: marquee 10s linear infinite;
+ position: relative;
+transition-delay: 0;
+}
+
+
+
+
+body
+{
+  background-image: url("backgroundimg.jpg");
+
+}
+
+footer
+{
+
+  color: white;
+  background-color: black;
+  padding: 3px;
+  margin-top: 0;
+  text-align: center;
+  font-size: 15px;
+
+
+}
